@@ -1,0 +1,3 @@
+[submodule "medical-segmentation-space"]
+	path = medical-segmentation-space
+	url = https://huggingface.co/spaces/shantanu404/medical-segmentation-space
